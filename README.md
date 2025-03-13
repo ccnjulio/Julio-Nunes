@@ -1,5 +1,3 @@
-# 
-
 ### Projeto dedicado à criação de um ambiente AD virtualizado em um home lab. 
 - [https://ccnjulio.github.io/ccn-homelab/](https://ccnjulio.github.io/ccn-homelab/).
 
