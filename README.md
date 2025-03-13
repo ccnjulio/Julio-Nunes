@@ -10,4 +10,4 @@
 
 
 ### LinkedIn
-https://www.linkedin.com/in/julio-nunes-b97331205/
+- https://www.linkedin.com/in/julio-nunes-b97331205/
